@@ -1,0 +1,3 @@
+﻿namespace Aoc2015 {
+
+}
